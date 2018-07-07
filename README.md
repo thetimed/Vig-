@@ -1,0 +1,2 @@
+# Vig-
+To calcualte Vig
