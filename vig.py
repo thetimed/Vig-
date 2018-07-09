@@ -32,9 +32,7 @@ for i in range(length):
 		
 print vig
 
-for i in vig:
-	sum = 0
-	sum += float(i)
+sum = sum(vig)
 	
 print sum
 
